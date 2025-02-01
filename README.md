@@ -17,3 +17,5 @@ The main goal of this project is to create a photorealistic presentation of 3D o
   - **GLFW** and **GLM**
   - **Blender**
   - **C++**
+
+![Mountain Village Scene](Scena.png)

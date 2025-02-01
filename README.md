@@ -18,4 +18,4 @@ The main goal of this project is to create a photorealistic presentation of 3D o
   - **Blender**
   - **C++**
 
-![Mountain Village Scene](Scena.png)
+![Mountain Village Scene](Scene.png)

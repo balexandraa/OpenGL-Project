@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\alexa\Documents\FACULTATE\AN3\sem1\PG\OpenGLprojectLab6\OpenGLproject\main.cpp(164,83): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\alexa\Documents\FACULTATE\AN3\sem1\PG\OpenGLprojectLab6\OpenGLproject\main.cpp(242,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexa\Documents\FACULTATE\AN3\sem1\PG\OpenGLprojectLab6\OpenGLproject\main.cpp(243,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexa\Documents\FACULTATE\AN3\sem1\PG\OpenGLprojectLab6\OpenGLproject\main.cpp(248,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexa\Documents\FACULTATE\AN3\sem1\PG\OpenGLprojectLab6\OpenGLproject\main.cpp(249,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexa\Documents\FACULTATE\AN3\sem1\PG\OpenGLprojectLab6\OpenGLproject\main.cpp(250,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexa\Documents\FACULTATE\AN3\sem1\PG\OpenGLprojectLab6\OpenGLproject\main.cpp(251,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGLproject.vcxproj -> C:\Users\alexa\Documents\FACULTATE\AN3\sem1\PG\OpenGLprojectLab6\x64\Debug\OpenGLproject.exe
